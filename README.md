@@ -2,7 +2,7 @@
 
 # A Torch in Darkness
 
-For video:
+## For video:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tk5gTQsqOwM
 " target="_blank"><img src="http://img.youtube.com/vi/tk5gTQsqOwM/0.jpg" 
